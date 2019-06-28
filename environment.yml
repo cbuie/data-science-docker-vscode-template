@@ -10,3 +10,6 @@ dependencies:
   - scikit-learn
   - pyodbc
   - jupyterlab
+  - jupyter
+  - pyodbc
+  - pandas-profiling
